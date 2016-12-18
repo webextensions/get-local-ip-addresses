@@ -1,0 +1,25 @@
+{
+  "name": "local-ip-addresses",
+  "version": "0.0.0",
+  "description": "Get local IP addresses",
+  "main": "local-ip-addresses.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webextensions/local-ip-addresses.git"
+  },
+  "keywords": [
+    "local",
+    "IP",
+    "address",
+    "addresses"
+  ],
+  "author": "Priyank Parashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webextensions/local-ip-addresses/issues"
+  },
+  "homepage": "https://github.com/webextensions/local-ip-addresses#readme"
+}
